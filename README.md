@@ -10,7 +10,7 @@ Once you have generated all the subsamples from our dataset you can run the expe
 usage: main.py [--base_config path]
 
 optional arguments:
-  --base_config        path to your config.yaml for this experimenti
+  --base_config         path to your config.yaml for this experiment
   --verbose             redirect stream to std out instead of using a log file in the yaml directory
   --competitor          load training data as circle expansion instead of dense annotations
   --additional_dataset  load the additional patients
