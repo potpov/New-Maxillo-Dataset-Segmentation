@@ -1,0 +1,8 @@
+/.idea
+/__pycache__
+venv
+__pycache__
+configs/base
+configs/
+visualize_results.py
+job_creator.py
