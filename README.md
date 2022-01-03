@@ -2,7 +2,7 @@
 
 3D neural network for the alveolar canal segmentation.
 Model and set-up is implemented from [Jaskari et al.](https://www.nature.com/articles/s41598-020-62321-3.pdf)  
-This project is related to our [recent work](#linkhere): our new 3D dense dataset can be downloaded [here](#linkhere).
+This project is related to our [recent work](#): our new 3D dense dataset can be downloaded [here](https://ditto.ing.unimore.it/maxillo/dataset/).
 
 ## Usage
 Once you have generated all the subsamples from our dataset you can run the experiments as follow:
